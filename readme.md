@@ -1,0 +1,1 @@
+Code for the paper "Adaptive key partitioning in distributed stream processing"
