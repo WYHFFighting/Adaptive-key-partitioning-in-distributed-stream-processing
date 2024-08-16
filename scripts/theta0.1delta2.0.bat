@@ -1,0 +1,1 @@
+python main.py --theta 0.1 --delta 2.0
